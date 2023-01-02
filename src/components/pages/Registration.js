@@ -7,7 +7,7 @@ function Registration() {
    
         <div><hr/>
              {/* <!-- Container Start --> */}
-            <div   style={{marginLeft:'700px', marginRight:'700px', marginTop:'50px', marginBottom:'150px', padding:'150'}}>
+            <div  className='container1'>
                 {/* <!-- Form Wrap Start --> */}
                 <div class="form-wrap">
                 <h1>Sign Up</h1>

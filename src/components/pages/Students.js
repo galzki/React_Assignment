@@ -1,5 +1,6 @@
 import {useEffect, useState} from 'react';
 import axios from 'axios';
+import '../layout/students.css';
 
 function  Student(){
     const [fname, setFname] = useState();
@@ -88,21 +89,21 @@ const submitBtn = function(){
 
     return(
         <div><hr/>
-        <div style={{background:'lightgrey', marginTop:'100px', marginLeft:'530px', marginRight:'530px',padding:'50px'}}><center>
-            <h1>Student's List</h1>
+        <div style={{background:'lightgrey', marginTop:'100px', marginLeft:'450px', marginRight:'450px', padding:'50px', borderRadius:'15px'}}><center>
+            <h1>Student's List</h1> 
             <form method="">
-                <input type="text" name="fname" value={fname} onChange = {(e) => setFname(e.target.value)}/>
-                <input type="text" name="lname"value={lname} onChange = {(e) => setLname(e.target.value)}/>
-                <input type="number" name="age"value={age} onChange = {(e) => setAge(e.target.value)}/>
-                <input type="submit" onClick={submitBtn}/> 
+                <input style={{width:'220px'}} type="text" placeholder='Enter First Name' name="fname" value={fname} onChange = {(e) => setFname(e.target.value)}/>
+                <input style={{width:'300px'}}type="text" placeholder='Enter Last Name'name="lname"value={lname} onChange = {(e) => setLname(e.target.value)}/>
+                <input type="number" placeholder='Enter Age' name="age"value={age} onChange = {(e) => setAge(e.target.value)}/>
+                <input style={{paddingLeft:'13px', paddingRight:'13px'}} type="submit" onClick={submitBtn}/> <br/><br/>
 
             </form>
             <table>
                 <thead>
                     <tr>
-                        <th>First Name</th>
-                        <th>Last Name</th>
-                        <th>Age</th>
+                        <th>FIRST NAME</th>
+                        <th>LAST NAME</th>
+                        <th>AGE</th>
                     </tr>
                 </thead>
                 <tbody> {students.map((val)=>{

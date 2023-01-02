@@ -5,7 +5,7 @@ function Login() {
         <div><hr/>
            <div className="container">
                 <center><h2>Sign in</h2>
-                <small>to proceed</small></center> <br/><br/>
+                <small>to proceed login</small></center> <br/><br/>
                 <form action="/action_page.php">
                     <div className="form-group">
                         <label for="email">Email:</label>

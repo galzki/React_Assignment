@@ -6,10 +6,20 @@
   box-sizing: border-box;
 }
 
-#container{
+.container1{
   font-family: 'poppins';
   border: 2px solid rgb(0, 0, 0);
   color: #fff;
+  background-color: lightgray;
+  margin-left:600px;
+  margin-right: 600px; 
+  margin-top: 50px; 
+  margin-bottom: 150px;
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  border-radius: 15px;
  
 }
 
@@ -46,12 +56,28 @@ a{
   border-radius: 5px;
 }
 
+h1{
+  color: rgb(150, 3, 3);
+  font-family:Georgia, 'Times New Roman', Times, serif; 
+  font-size: 45px;
+  font-weight: bold;
+  font-style: italic;
+}
+
+th, td{
+  text-indent: 10px;
+}
+
 .form-wrap button{
   display: block;
-  width: 100%;
+  width: 50%;
+  position:center;
   padding: 10px;
   margin-top: 20px;
+  margin-left: 100px;
+  margin-right: 100px;
   background-color: #0d0e0d;
+  border-radius: 5px;
   color: #fff;
   cursor: pointer;
   border: 1px solid #fafafa;
@@ -62,6 +88,7 @@ a{
 
 .form-wrap button:hover{
   background-color: rgb(92, 184, 11);
+  color: black;
   transition: 1s;
 }
 
