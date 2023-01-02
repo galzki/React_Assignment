@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/React_Assignment/static/css/main.3e45bb03.css",
+    "main.js": "/React_Assignment/static/js/main.7650792b.js",
+    "static/media/mc3.jpg": "/React_Assignment/static/media/mc3.99b69c7b8ba133045423.jpg",
+    "static/media/img4.jpg": "/React_Assignment/static/media/img4.dfa5cf0239cf64664fa6.jpg",
+    "static/media/mc2.jpg": "/React_Assignment/static/media/mc2.f080fe9e5824efe4afc3.jpg",
+    "static/media/img1.jpg": "/React_Assignment/static/media/img1.63b7431a9319c7268c88.jpg",
+    "static/media/im3.jpg": "/React_Assignment/static/media/im3.5cc145824a66bf33a2de.jpg",
+    "static/media/img8.jpg": "/React_Assignment/static/media/img8.91628069930da0c57fb6.jpg",
+    "static/media/img2.jpg": "/React_Assignment/static/media/img2.ffad739a0380bc1ec84a.jpg",
+    "static/media/img5.jpg": "/React_Assignment/static/media/img5.dc8dc1250b881da4ef65.jpg",
+    "static/media/im4.jpg": "/React_Assignment/static/media/im4.0df20eab5d7a2884241e.jpg",
+    "static/media/img11.jpg": "/React_Assignment/static/media/img11.23da8fe05fc83656fdc1.jpg",
+    "static/media/mc1.jpg": "/React_Assignment/static/media/mc1.0ce64f0bba836de05280.jpg",
+    "static/media/im2.jpg": "/React_Assignment/static/media/im2.f7c89daf416339d379e4.jpg",
+    "static/media/img6.jpg": "/React_Assignment/static/media/img6.a953aa9169f00c8c6b14.jpg",
+    "static/media/img3.jpg": "/React_Assignment/static/media/img3.6075befc6f98f0c211b7.jpg",
+    "static/media/img9.jpg": "/React_Assignment/static/media/img9.9fa22d53a771fd127863.jpg",
+    "static/media/img12.jpg": "/React_Assignment/static/media/img12.668b10d655c0bff52c56.jpg",
+    "static/media/im1.jpg": "/React_Assignment/static/media/im1.04533b5ca998c33c6611.jpg",
+    "static/media/im5.jpg": "/React_Assignment/static/media/im5.c737c927a7044ac5e5cb.jpg",
+    "static/media/img10.jpg": "/React_Assignment/static/media/img10.05658f3e3188068ce5c0.jpg",
+    "static/media/img7.jpg": "/React_Assignment/static/media/img7.27f111fe3a2213deac9d.jpg",
+    "static/media/ftr.jpg": "/React_Assignment/static/media/ftr.a2cdeac858557c528726.jpg",
+    "static/media/im6.jpg": "/React_Assignment/static/media/im6.0a80072328bb19ff7026.jpg",
+    "index.html": "/React_Assignment/index.html",
+    "main.3e45bb03.css.map": "/React_Assignment/static/css/main.3e45bb03.css.map",
+    "main.7650792b.js.map": "/React_Assignment/static/js/main.7650792b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e45bb03.css",
+    "static/js/main.7650792b.js"
+  ]
+}
