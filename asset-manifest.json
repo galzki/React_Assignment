@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/React_Assignment/static/css/main.3e45bb03.css",
-    "main.js": "/React_Assignment/static/js/main.7650792b.js",
+    "main.css": "/React_Assignment/static/css/main.a9719de7.css",
+    "main.js": "/React_Assignment/static/js/main.d36fc188.js",
     "static/media/mc3.jpg": "/React_Assignment/static/media/mc3.99b69c7b8ba133045423.jpg",
     "static/media/img4.jpg": "/React_Assignment/static/media/img4.dfa5cf0239cf64664fa6.jpg",
     "static/media/mc2.jpg": "/React_Assignment/static/media/mc2.f080fe9e5824efe4afc3.jpg",
@@ -25,11 +25,11 @@
     "static/media/ftr.jpg": "/React_Assignment/static/media/ftr.a2cdeac858557c528726.jpg",
     "static/media/im6.jpg": "/React_Assignment/static/media/im6.0a80072328bb19ff7026.jpg",
     "index.html": "/React_Assignment/index.html",
-    "main.3e45bb03.css.map": "/React_Assignment/static/css/main.3e45bb03.css.map",
-    "main.7650792b.js.map": "/React_Assignment/static/js/main.7650792b.js.map"
+    "main.a9719de7.css.map": "/React_Assignment/static/css/main.a9719de7.css.map",
+    "main.d36fc188.js.map": "/React_Assignment/static/js/main.d36fc188.js.map"
   },
   "entrypoints": [
-    "static/css/main.3e45bb03.css",
-    "static/js/main.7650792b.js"
+    "static/css/main.a9719de7.css",
+    "static/js/main.d36fc188.js"
   ]
 }
