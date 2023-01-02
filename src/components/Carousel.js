@@ -51,7 +51,7 @@ function Carousel(img){
                     <div className="imgbox"> <img src={im1} className="d-block w-100" alt="pic1"/></div>
                     <div className="content">
                         <div>
-                            <h2>Image One</h2>
+                            {/* <h2>Image One</h2> */}
                         </div>
                     </div>
                 </div>
@@ -59,7 +59,7 @@ function Carousel(img){
                     <div className="imgbox"> <img src={im2} className="d-block w-100" alt="pic2"/></div>
                     <div className="content">
                         <div>
-                            <h2>Image Two</h2>
+                            {/* <h2>Image Two</h2> */}
                         </div>
                     </div>
                 </div>
@@ -67,7 +67,7 @@ function Carousel(img){
                     <div className="imgbox"> <img src={im3} className="d-block w-100" alt="pic3"/></div>
                     <div className="content">
                         <div>
-                            <h2>Image Three</h2>
+                            {/* <h2>Image Three</h2> */}
                         </div>
                     </div>
                 </div>
@@ -75,7 +75,7 @@ function Carousel(img){
                     <div className="imgbox"> <img src={im4} className="d-block w-100" alt="pic4"/></div>
                     <div className="content">
                         <div>
-                            <h2>Image Four</h2>
+                            {/* <h2>Image Four</h2> */}
                         </div>
                     </div>
                 </div>
@@ -83,7 +83,7 @@ function Carousel(img){
                     <div className="imgbox"> <img src={im5} className="d-block w-100" alt="pic5"/></div>
                     <div className="content">
                         <div>
-                            <h2>Image Five</h2>
+                            {/* <h2>Image Five</h2> */}
                         </div>
                     </div>
                 </div>
@@ -91,7 +91,7 @@ function Carousel(img){
                     <div className="imgbox"> <img src={im6} className="d-block w-100" alt="pic6"/></div>
                     <div className="content">
                         <div>
-                            <h2>Image Six</h2>
+                            {/* <h2>Image Six</h2> */}
                         </div>
                     </div>
                 </div>

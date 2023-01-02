@@ -15,7 +15,7 @@ function App() {
       <Navbar/>
         <div>
           <Routes>
-          <Route path= "/React_Assignment" element={<Home/>}/>
+          <Route path= "/" element={<Home/>}/>
             <Route path= "/students" element={<Students/>}/>
             <Route path="/registration" element={<Registration/>}/>
             <Route path="/login" element={<Login/>}/>
