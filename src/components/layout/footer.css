@@ -1,0 +1,74 @@
+body {
+    min-height: 100vh;
+    margin: 0;
+    position: relative;   
+}
+
+body::after{
+    content: ''; 
+    display: block;
+}
+
+ footer{
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    /* background-color: rgb(232, 224, 224); */
+    background-image: url(/src/assets/img/ftr.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    padding-top: 5px; 
+    font-Family: sans-serif;
+ }
+
+background-image{
+  opacity: .2;
+ }
+
+
+ footer p{
+   color:#f5f6f8;
+ }
+
+ footer small{
+  color: rgb(92, 184, 11);
+
+}
+ .fa {
+  padding: 10px;
+  font-size: 20px;
+  width: 2vw;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 70px;
+  border-radius: 50%;
+}
+  
+  .fa:hover {
+      background:rgb(92, 184, 11);
+      color: rgb(251, 255, 247);
+  }
+  
+  .fa-facebook {
+    background: #9c9d9e;
+        color: rgb(0, 0, 0);
+  }
+  
+  .fa-linkedin {
+    background: #9c9d9e;
+        color: rgb(0, 0, 0);
+  }
+  
+  .fa-google {
+    background: #9c9d9e;
+        color: rgb(0, 0, 0);
+  }
+  
+  
+  .fa-github {
+    background:#9c9d9e;
+    color: rgb(0, 0, 0);
+    }
+  
+  

@@ -1,0 +1,18 @@
+.container{
+    margin: 30px auto;
+    max-width: 450px;
+    padding: 70px;
+    margin-bottom: 200px;
+    border:2px solid black;  
+  }
+
+.container button{
+    display: block;
+    width: 100%;
+    border:1px solid black
+}
+
+.container button:hover{
+    background-color: rgb(92, 184, 11);
+    transition: 1s;
+}

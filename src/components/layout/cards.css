@@ -1,0 +1,45 @@
+body{
+    margin: 1em;
+}
+.grid1, .grid2{
+     padding: 3em;
+     display: grid;
+     grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+     grid-gap: 10px;
+     margin-top: 50px;
+     margin-bottom: 50px;
+
+}
+
+.grid1, .grid2 div {
+    border: px solid rgb (0,95,107);
+    border-radius: 5px;
+    text-align: center;
+    color: #0f1301;
+    grid-row: auto;  
+}
+
+
+.grid2{
+    padding-bottom: 200px;
+}
+
+.grid1 img:hover {
+    transform: rotateY(0deg) scale(1.06);
+    z-index: 1;
+    box-shadow: 0 25px 40px rgba(0,0,0,0.5);
+  }
+
+.grid2 img:hover {
+    transform: rotateY(0deg) scale(1.06);
+    z-index: 1;
+    box-shadow: 0 25px 40px rgba(0,0,0,0.5);
+  }
+
+div .quotes{
+    text-align: center; 
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 18px; 
+    background-color: rgb(239, 243, 235);
+    color: rgb(100, 1, 1);
+}
